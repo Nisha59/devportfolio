@@ -2,9 +2,9 @@ const skills = [
   { cat: 'Frontend', items: ['React', 'TypeScript', 'Tailwind CSS', 'HTML/CSS'] },
   { cat: 'Backend', items: ['Python', 'FastAPI', 'Node.js', 'REST APIs'] },
   { cat: 'DevOps', items: ['Docker', 'GitHub Actions', 'AWS'] },
-  { cat: 'Databases', items: ['PostgreSQL', 'MongoDB', 'Redis'] },
-  { cat:  'AI & Machine Learning', items: ["LLMs & AI Agents", "RAG & Knowledge Retrieval", "Prompt Engineering", "Model Evaluation", "Fine-tuning (LoRA/QLoRA)"]},
-  { cat:   'Frameworks & Libraries', items: ["LangChain & LlamaIndex", "OpenAI & Anthropic API", "ChromaDB & FAISS", "Hugging Face & Pydantic"]},
+  { cat: 'Databases', items: ['MySQL', 'MongoDB'] },
+  { cat:  'AI & Machine Learning', items: ["LLMs & AI Agents", "RAG & Knowledge Retrieval", "Prompt Engineering", "Model Evaluation", "Fine-tuning "]},
+  { cat:   'Frameworks & Libraries', items: ["LangChain", "OpenAI ", "ChromaDB & FAISS", "Hugging Face & Pydantic"]},
 ]
 
 export default function Skills() {
