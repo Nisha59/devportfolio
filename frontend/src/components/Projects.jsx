@@ -17,7 +17,7 @@ const projects = [
     title: 'AI Knowledge Assistant',
     desc: 'Production-grade agentic RAG pipeline for enterprise document querying. Semantic chunking, ChromaDB vector storage, multi-query retrieval, and LLM reranking — all served via FastAPI with Pydantic-validated outputs and automated evaluation dashboards tracking MRR, nDCG, and LLM-as-Judge metrics.',
     tags: ["LangChain", "ChromaDB", "FastAPI"],
-    github: 'https://github.com/Nisha59/GenAI-RAG-Pipeline-for-Multi-Format-Document-Automation',
+    github: 'https://github.com/Nisha59/AI-Knowledge-Assistant-Agentic-RAG-Platform',
     // live: '#'
   },
   
